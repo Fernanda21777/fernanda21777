@@ -4,7 +4,7 @@
 - processo de aprendizagem ...
 - Pronouns: Ela/Dela ...
 <div align="center">
-  <a href="https://github.com/fernanda">
+  <a href="https://github.com/fernanda21777">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fernanda21777&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda21777&layout=compact&langs_count=7&theme=moltack"/>
 </div>
